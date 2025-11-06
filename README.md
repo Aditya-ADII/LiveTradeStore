@@ -37,9 +37,10 @@ Use a partitioned PostgreSQL table (time-based) + appropriate indexes; bulk-load
 
 All screenshots are located in the `img/` folder.
 
-![Query Plan](<img/Screenshot 2025-11-06 132110.png>)
-![Execution Graph](<img/Screenshot 2025-11-06 132122.png>)
-![Latency View](<img/Screenshot 2025-11-06 132133.png>)
-![Partition Summary](<img/Screenshot 2025-11-06 132146.png>)
+![Query Plan](<Screenshot 2025-11-06 132110.png>)
+![Execution Graph](<Screenshot 2025-11-06 132122.png>)
+![Latency View](<Screenshot 2025-11-06 132133.png>)
+![Partition Summary](<Screenshot 2025-11-06 132146.png>)
+
 
 
